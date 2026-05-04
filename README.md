@@ -1,6 +1,5 @@
 # US-Stock-Index-Lab
 A from-scratch implementation of three distinct US equity indices, constructed using monthly CRSP data sourced from the WRDS database spanning two decades (2000–2020).
-![Index Performance vs ETF Benchmarks](assets/performance.png)
 The project explores how index-weighting methodology shapes portfolio performance — and validates each custom index against widely-traded ETFs.
 What this project does:
 1. Data Extraction
